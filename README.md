@@ -1,0 +1,1 @@
+# spring-Hibernate-integration
